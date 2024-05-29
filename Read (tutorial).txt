@@ -1,0 +1,6 @@
+﻿How to build
+1. Run install_python.bat
+2. Run ST4R MENU.bat
+3. Select what you would like to compile (select a number 1-3)
+4. Go to the dist folder for your compiled stealer
+5. Enjoy :
